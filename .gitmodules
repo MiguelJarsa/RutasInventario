@@ -2,3 +2,8 @@
 	path = Jarsa/stock-logistics-workflow
 	url = git@github.com:Jarsa/stock-logistics-workflow.git
 	branch = 14.0
+
+[submodule "Jarsa/stock-logistics-warehouse"]
+	path = Jarsa/stock-logistics-warehouse
+	url = git@github.com:Jarsa/stock-logistics-warehouse.git
+	branch = 14.0
